@@ -59,4 +59,4 @@ def rockpaperscissors(mode):
 
 
 print(rockpaperscissors(1))  # part 1 (11906)
-print(rockpaperscissors(2))  # part 2 
+print(rockpaperscissors(2))  # part 2 (11186)
