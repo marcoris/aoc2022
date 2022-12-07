@@ -32,5 +32,5 @@ def num_larger():
 
 data = num_larger()
 
-print(get_largest(data, 1))  # part 1
-print(get_largest(data, 3))  # part 2
+print(get_largest(data, 1))  # part 1 (72017)
+print(get_largest(data, 3))  # part 2 (212520)
